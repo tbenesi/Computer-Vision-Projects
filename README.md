@@ -4,7 +4,7 @@ Health Insurance Cross Sell Prediction 🏠 🏥
 Predict Health Insurance Owners who will be interested in Vehicle Insurance
 
 
-**Problem Statement
+**Problem Statement**
 
 Our client is an Insurance company that has provided Health Insurance to its customers. Now they need your help in building a model to predict whether the policyholders (customers) from the past year will also be interested in Vehicle Insurance provided by the company.
 An insurance policy is an arrangement by which a company undertakes to guarantee compensation for specified loss, damage, illness, or death in return for the payment of a fixed premium. A premium is money the customer must regularly pay to an insurance company for this guarantee.
@@ -19,7 +19,7 @@ Data Description
 
 You are provided with two files: train.csv and test.csv
 
-**Variable	            Definition
+**Variable	            Definition**
 
 id	                  Unique ID for the customer
 
@@ -45,7 +45,7 @@ Vintage	              Number of Days, Customer has been associated with the comp
 
 Response            	1 : Customer is interested, 0: Customer is not interested
 
-**Evaluation Metric
+**Evaluation Metric**
 
 The evaluation metric would be the ROC_AUC score.
 
